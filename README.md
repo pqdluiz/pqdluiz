@@ -8,9 +8,6 @@ Full Stack Developer
 * ✉️  You can contact me at [luizpaulo78pqd@gmail.com](mailto:luizpaulo78pqd@gmail.com)
 * 🧠  I'm learning Advanced Javascript, Typescript, C# and Golang programming language
 
-<a href="https://www.github.com/pqdluiz" target="_blank" rel="noreferrer"><img
-src="https://img.shields.io/github/followers/pqdluiz?logo=github&style=for-the-badge&color=3382ed&labelColor=171717" /></a>
-
 ### Skills
 
 <p align="left">
