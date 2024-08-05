@@ -1,9 +1,6 @@
 Hi 👋 My name is Luiz
 ==========================
 
-Full Stack Developer
------------------------------
-
 * 🌍  I'm based in Rio de Janeiro, Brazil
 * ✉️  You can contact me at [luizpaulo78pqd@gmail.com](mailto:luizpaulo78pqd@gmail.com)
 * 🧠  I'm learning Advanced Javascript, Typescript, C# and Golang programming language
